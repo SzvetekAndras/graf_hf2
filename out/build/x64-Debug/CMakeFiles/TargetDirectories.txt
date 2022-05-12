@@ -1,0 +1,5 @@
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/program.dir
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/glut.dir
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/glew.dir
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

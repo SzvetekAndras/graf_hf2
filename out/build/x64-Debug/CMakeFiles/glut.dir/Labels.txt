@@ -1,0 +1,13 @@
+# Target labels
+ glut
+# Source files and their labels
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/glut
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/glut.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/glut-complete.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-build.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-configure.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-download.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-install.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-mkdir.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-patch.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-update.rule

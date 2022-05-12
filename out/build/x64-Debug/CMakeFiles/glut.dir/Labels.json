@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/glut"
+		},
+		{
+			"file" : "C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/glut.rule"
+		},
+		{
+			"file" : "C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/glut-complete.rule"
+		},
+		{
+			"file" : "C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-build.rule"
+		},
+		{
+			"file" : "C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-configure.rule"
+		},
+		{
+			"file" : "C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-download.rule"
+		},
+		{
+			"file" : "C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-install.rule"
+		},
+		{
+			"file" : "C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-patch.rule"
+		},
+		{
+			"file" : "C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glut-prefix/src/glut-stamp/glut-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glut"
+		],
+		"name" : "glut"
+	}
+}

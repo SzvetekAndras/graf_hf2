@@ -1,0 +1,13 @@
+# Target labels
+ glew
+# Source files and their labels
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/glew
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/glew.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/CMakeFiles/glew-complete.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glew-prefix/src/glew-stamp/glew-build.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glew-prefix/src/glew-stamp/glew-configure.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glew-prefix/src/glew-stamp/glew-download.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glew-prefix/src/glew-stamp/glew-install.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glew-prefix/src/glew-stamp/glew-mkdir.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glew-prefix/src/glew-stamp/glew-patch.rule
+C:/Users/szvet/CLionProjects/graf_hf2/out/build/x64-Debug/glew-prefix/src/glew-stamp/glew-update.rule
